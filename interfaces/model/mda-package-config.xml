@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<package namespace='ARInterfaces'>
+
+    <repositories>
+        <repository name='model-url' manager='CO::FolderURL' source='.' />    
+        	        
+    </repositories>
+
+    
+</package>

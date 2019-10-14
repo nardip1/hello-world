@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ibiz>
+
+    <services>
+         <service name='ARAuthorizeNetAuthorizeCreditCard' handler='com.cbic.ar.interfaces.authorizenet.handler.AuthorizeCreditCard' />      
+    </services>
+</ibiz>

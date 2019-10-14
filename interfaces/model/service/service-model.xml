@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Model>
+	<Class name="CustomerMakePaymentCombinedRs" response="true" extends="CustomerMakePaymentCombinedRs">
+		<Field name="Policy" complexType="Policy"/>
+		<Field name="Customer" complexType="Customer"/>
+	</Class>	
+</Model>
